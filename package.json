@@ -24,6 +24,7 @@
     "date-utils": "^1.2.16",
     "githubot": "^1.0.0-beta2",
     "hubot": ">= 2.6.0 < 3.0.0",
+    "hubot-idobata": "^0.1.0",
     "hubot-scripts": ">= 2.5.0 < 3.0.0"
   },
   "engines": {
