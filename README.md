@@ -1,3 +1,14 @@
+=======
+# kasaharubot
+
+* Hubot を使用したオリジナル bot
+* 環境設定は下記参照
+    * refer to http://qiita.com/kasaharu/items/62d5db6335fa5cacd6b6
+
+
+
+
+--------------------------------------------------
 # Hubot
 
 This is a version of GitHub's Campfire bot, hubot. He's pretty cool.
