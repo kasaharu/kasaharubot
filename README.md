@@ -6,6 +6,15 @@
     * refer to http://qiita.com/kasaharu/items/62d5db6335fa5cacd6b6
 
 
+## How to communication
+
+```
+$ hubot hi
+> 各言語の挨拶をランダムで表示
+
+$ hubot hello
+> Hello を表示
+```
 
 
 --------------------------------------------------
