@@ -2,7 +2,16 @@
 # kasaharubot
 
 * Hubot を使用したオリジナル bot
-* 環境設定は下記参照
+
+
+## Preparation
+* Install
+
+```
+$ npm install -g hubot coffee-script
+```
+
+* 詳細な環境設定は下記参照
     * refer to http://qiita.com/kasaharu/items/62d5db6335fa5cacd6b6
 
 
